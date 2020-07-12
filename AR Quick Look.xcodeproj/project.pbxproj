@@ -31,12 +31,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1A813E5822E443AC009A7BB5 /* drummer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = drummer.usdz; sourceTree = "<group>"; };
-		1A813E5A22E443C7009A7BB5 /* robot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = robot.usdz; sourceTree = "<group>"; };
-		1A813E5C22E443D7009A7BB5 /* retro tv.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = "retro tv.usdz"; sourceTree = "<group>"; };
-		1A813E5E22E443EA009A7BB5 /* car.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = car.usdz; sourceTree = "<group>"; };
-		1A813E6022E44405009A7BB5 /* plane.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = plane.usdz; sourceTree = "<group>"; };
-		1A813E6222E44420009A7BB5 /* fender.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = fender.usdz; sourceTree = "<group>"; };
+		1A813E5822E443AC009A7BB5 /* drummer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = drummer.usdz; sourceTree = "<group>"; };
+		1A813E5A22E443C7009A7BB5 /* robot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = robot.usdz; sourceTree = "<group>"; };
+		1A813E5C22E443D7009A7BB5 /* retro tv.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = "retro tv.usdz"; sourceTree = "<group>"; };
+		1A813E5E22E443EA009A7BB5 /* car.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = car.usdz; sourceTree = "<group>"; };
+		1A813E6022E44405009A7BB5 /* plane.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = plane.usdz; sourceTree = "<group>"; };
+		1A813E6222E44420009A7BB5 /* fender.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = fender.usdz; sourceTree = "<group>"; };
 		1AEFE49422AAB48400B28D1C /* AR Quick Look.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AR Quick Look.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AEFE49722AAB48400B28D1C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1AEFE49C22AAB48400B28D1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,14 +46,14 @@
 		1AEFE4A922AAB62300B28D1C /* ARContentTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARContentTableViewController.swift; sourceTree = "<group>"; };
 		1AEFE4AB22AAB73C00B28D1C /* DetailTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailTableViewCell.swift; sourceTree = "<group>"; };
 		1AEFE4AC22AAB73C00B28D1C /* DetailTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DetailTableViewCell.xib; sourceTree = "<group>"; };
-		1AEFE4B122AAC04300B28D1C /* wheelbarrow.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = wheelbarrow.usdz; sourceTree = "<group>"; };
-		1AEFE4B222AAC04300B28D1C /* wateringcan.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = wateringcan.usdz; sourceTree = "<group>"; };
-		1AEFE4B322AAC04300B28D1C /* teapot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = teapot.usdz; sourceTree = "<group>"; };
-		1AEFE4B422AAC04300B28D1C /* gramophone.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = gramophone.usdz; sourceTree = "<group>"; };
-		1AEFE4B522AAC04300B28D1C /* cupandsaucer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = cupandsaucer.usdz; sourceTree = "<group>"; };
-		1AEFE4B622AAC04300B28D1C /* redchair.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = redchair.usdz; sourceTree = "<group>"; };
-		1AEFE4B722AAC04300B28D1C /* tulip.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = tulip.usdz; sourceTree = "<group>"; };
-		1AEFE4B822AAC04300B28D1C /* plantpot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = plantpot.usdz; sourceTree = "<group>"; };
+		1AEFE4B122AAC04300B28D1C /* wheelbarrow.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = wheelbarrow.usdz; sourceTree = "<group>"; };
+		1AEFE4B222AAC04300B28D1C /* wateringcan.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = wateringcan.usdz; sourceTree = "<group>"; };
+		1AEFE4B322AAC04300B28D1C /* teapot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = teapot.usdz; sourceTree = "<group>"; };
+		1AEFE4B422AAC04300B28D1C /* gramophone.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = gramophone.usdz; sourceTree = "<group>"; };
+		1AEFE4B522AAC04300B28D1C /* cupandsaucer.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = cupandsaucer.usdz; sourceTree = "<group>"; };
+		1AEFE4B622AAC04300B28D1C /* redchair.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = redchair.usdz; sourceTree = "<group>"; };
+		1AEFE4B722AAC04300B28D1C /* tulip.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = tulip.usdz; sourceTree = "<group>"; };
+		1AEFE4B822AAC04300B28D1C /* plantpot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = plantpot.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,6 +152,7 @@
 				TargetAttributes = {
 					1AEFE49322AAB48400B28D1C = {
 						CreatedOnToolsVersion = 10.1;
+						LastSwiftMigration = 1150;
 					};
 				};
 			};
@@ -356,17 +357,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = BV63C62662;
+				DEVELOPMENT_TEAM = T6ZU53P33V;
 				INFOPLIST_FILE = "AR Quick Look/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.anandnigam.AR-Quick-Look";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.swathinath.AR-Quick-Look";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -377,17 +378,17 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = BV63C62662;
+				DEVELOPMENT_TEAM = T6ZU53P33V;
 				INFOPLIST_FILE = "AR Quick Look/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.anandnigam.AR-Quick-Look";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.swathinath.AR-Quick-Look";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
