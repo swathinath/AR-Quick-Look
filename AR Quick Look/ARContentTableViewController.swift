@@ -12,7 +12,7 @@ import QuickLook
 class ARContentTableViewController: UITableViewController, QLPreviewControllerDelegate, QLPreviewControllerDataSource {
 
     // Array containing the name of all the 3d models and their images
-    private let modelsName = ["wheelbarrow", "wateringcan", "teapot", "gramophone", "cupandsaucer", "redchair", "tulip", "plantpot", "fender", "plane", "car", "retro tv", "robot", "drummer"]
+    private let modelsName = ["seal", "building", "wheelbarrow", "wateringcan", "teapot", "gramophone", "cupandsaucer", "redchair", "tulip", "plantpot", "fender", "plane", "car", "retro tv", "robot", "drummer"]
     // To keep the track of selected cell in tableView
     private var selectedModelIndex = 0
     

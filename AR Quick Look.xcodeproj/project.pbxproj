@@ -28,6 +28,8 @@
 		1AEFE4BE22AAC04300B28D1C /* redchair.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 1AEFE4B622AAC04300B28D1C /* redchair.usdz */; };
 		1AEFE4BF22AAC04300B28D1C /* tulip.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 1AEFE4B722AAC04300B28D1C /* tulip.usdz */; };
 		1AEFE4C022AAC04300B28D1C /* plantpot.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 1AEFE4B822AAC04300B28D1C /* plantpot.usdz */; };
+		B188145B24BDDF2E00CF7D22 /* seal.usdz in Resources */ = {isa = PBXBuildFile; fileRef = B188145A24BDDF2E00CF7D22 /* seal.usdz */; };
+		B188145D24BDDFD000CF7D22 /* building.usdz in Resources */ = {isa = PBXBuildFile; fileRef = B188145C24BDDFD000CF7D22 /* building.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +56,8 @@
 		1AEFE4B622AAC04300B28D1C /* redchair.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = redchair.usdz; sourceTree = "<group>"; };
 		1AEFE4B722AAC04300B28D1C /* tulip.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = tulip.usdz; sourceTree = "<group>"; };
 		1AEFE4B822AAC04300B28D1C /* plantpot.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = plantpot.usdz; sourceTree = "<group>"; };
+		B188145A24BDDF2E00CF7D22 /* seal.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = seal.usdz; sourceTree = "<group>"; };
+		B188145C24BDDFD000CF7D22 /* building.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = building.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 		1AEFE4B022AAC04300B28D1C /* AR Models */ = {
 			isa = PBXGroup;
 			children = (
+				B188145A24BDDF2E00CF7D22 /* seal.usdz */,
+				B188145C24BDDFD000CF7D22 /* building.usdz */,
 				1A813E6222E44420009A7BB5 /* fender.usdz */,
 				1A813E6022E44405009A7BB5 /* plane.usdz */,
 				1A813E5E22E443EA009A7BB5 /* car.usdz */,
@@ -185,6 +191,7 @@
 				1AEFE49F22AAB48600B28D1C /* Assets.xcassets in Resources */,
 				1AEFE4B922AAC04300B28D1C /* wheelbarrow.usdz in Resources */,
 				1A813E5D22E443D7009A7BB5 /* retro tv.usdz in Resources */,
+				B188145B24BDDF2E00CF7D22 /* seal.usdz in Resources */,
 				1A813E6122E44405009A7BB5 /* plane.usdz in Resources */,
 				1AEFE4BC22AAC04300B28D1C /* gramophone.usdz in Resources */,
 				1AEFE4BB22AAC04300B28D1C /* teapot.usdz in Resources */,
@@ -197,6 +204,7 @@
 				1AEFE4BF22AAC04300B28D1C /* tulip.usdz in Resources */,
 				1AEFE49D22AAB48400B28D1C /* Main.storyboard in Resources */,
 				1AEFE4C022AAC04300B28D1C /* plantpot.usdz in Resources */,
+				B188145D24BDDFD000CF7D22 /* building.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
